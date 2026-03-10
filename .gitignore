@@ -24,7 +24,6 @@ env/
 
 # Large data files
 *.pdf
-faiss_index/
 chunks.json
 evaluation_results.json
 
